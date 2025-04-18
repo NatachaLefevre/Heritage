@@ -60,7 +60,9 @@ Les cartes à jouer représentent les personnages, qui peuvent être scannées. 
 
 ### Appli et UI
 Le design de l'appli est là aussi inspiré du style steampunk, avec une navigation simple et de de gros boutons, car il faut pouvoir sélectionner en VR.
-Le jeu montre le bureau du manoir de Tante Léonie, où l'héritage se négocie entre joueurs. Nous avons fait le choix d'un mélange d'assets 3D et 2D, qui se marient bien pour proposer à la fois une immersion comme si on était dans le manoir, et un style BD.
+Le jeu montre le bureau du manoir de Tante Léonie, où l'héritage se négocie entre joueurs. 
+
+Nous avons fait le choix d'un mélange d'assets 3D et 2D, qui se marient bien pour proposer à la fois une immersion comme si on était dans le manoir, et un style BD.
 
 ![Heritage_menu01](https://github.com/user-attachments/assets/8a513060-c761-40bf-b0b2-fd91a8cfdf46)
 
@@ -73,7 +75,7 @@ Il a aussi reçu le Prix Imaginatif au salon Hits Playtime à Paris.
 
 Nous l'avons présenté et testé lors de séances de playtests en cadrés, et en contact avec le public dans de nombreux salons de jeux vidéo et de jeux de société comme Paris Est Ludique ou l'Intel Showcase. Les avis ont été très positifs, et nous avons pu équilibrer le gameplay grâce aux retours du public et des professionnels du jeu qui ont testé le jeu.
 
-Nous avons failli pouvoir le sortir dans le commerce, mais malheureusement le covid est passé par-là. 
+Nous avons failli pouvoir le sortir dans le commerce, mais malheureusement le covid est passé par-là et a déjoué nos plans. 
 
 Mais qui sait si Heritage peut renaître un jour...
 
