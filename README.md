@@ -5,7 +5,7 @@ Sur ce jeu, j'ai assuré la direction artistique: UI du jeu en 2D, character des
 
 J'ai aussi participé au game design et aux tests du jeu avec le public.
 
-![Heritage_logo](https://github.com/user-attachments/assets/40c137e8-ba44-4c27-b9ba-80f4d42b1dcb)
+![Heritage_logo_SD](https://github.com/user-attachments/assets/da46407b-75ec-4299-be1e-0f6937e1ad5b)
 
 ## L'équipe
 Gwennaël Codet-Hache - chef de projet
@@ -38,8 +38,12 @@ https://www.youtube.com/watch?v=HIbteqx4pVA
 
 
 ## Direction artistique
+Nous avons opté pour une direction artistique inspirée du style steampunk, dans un style bande dessinée.
 
 ### Design du carboard
+Afin de rendre le Vériscope plus réel, nous avons décoré le cardboard Google comme une petite machine steampunk.
+
+
 
 ### Cartes à jouer et réalité augmentée (AR)
 Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé VuMark de Vuforia pour la réalité augmentée. Cela nous a permis de pouvoir scanner les illustrations des cartes sans devoir passer par des QR codes. En revanche, il est nécessaire que les illustrations contiennent des formes et des contrastes bien distincts pour que le logiciel les repèreJ'ai adapté la direction artistique du jeu en fonction 
