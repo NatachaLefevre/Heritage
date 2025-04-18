@@ -9,9 +9,13 @@ J'ai aussi participé au game design et aux tests du jeu avec le public.
 
 ## L'équipe
 Gwennaël Codet-Hache - chef de projet
+
 Adrien Gilly - développeur
+
 Natacha Lefèvre - directrice artistique
+
 Samuel Lepoil - narrative designer
+
 Dimitri Roziecki - technical artist 3D
 
 ## Fonctionnement du jeu
