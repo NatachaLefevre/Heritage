@@ -7,6 +7,8 @@ J'ai aussi participé au game design et aux tests du jeu avec le public.
 
 ![Heritage_logo_SD](https://github.com/user-attachments/assets/da46407b-75ec-4299-be1e-0f6937e1ad5b)
 
+![Heritage_simulation_jeu](https://github.com/user-attachments/assets/92735d79-0df5-47cb-a299-4ee82e9f623e)
+
 ## L'équipe
 Gwennaël Codet-Hache - chef de projet
 
@@ -46,4 +48,4 @@ Afin de rendre le Vériscope plus réel, nous avons décoré le cardboard Google
 
 
 ### Cartes à jouer et réalité augmentée (AR)
-Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé VuMark de Vuforia pour la réalité augmentée. Cela nous a permis de pouvoir scanner les illustrations des cartes sans devoir passer par des QR codes. En revanche, il est nécessaire que les illustrations contiennent des formes et des contrastes bien distincts pour que le logiciel les repèreJ'ai adapté la direction artistique du jeu en fonction 
+Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé VuMark de Vuforia pour la réalité augmentée. Cela nous a permis de pouvoir scanner les illustrations des cartes sans devoir passer par des QR codes. En revanche, il est nécessaire que les illustrations contiennent des formes et des contrastes bien distincts pour que le logiciel les repère. J'ai adapté la direction artistique du jeu en fonction de cette contrainte.
