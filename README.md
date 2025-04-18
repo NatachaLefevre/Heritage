@@ -5,14 +5,14 @@ Sur ce jeu, j'ai assuré la direction artistique: UI du jeu en 2D, character des
 
 J'ai aussi participé au game design et aux tests du jeu avec le public.
 
-##L'équipe
+![Heritage_logo](https://github.com/user-attachments/assets/40c137e8-ba44-4c27-b9ba-80f4d42b1dcb)
+
+## L'équipe
 Gwennaël Codet-Hache - chef de projet
 Adrien Gilly - développeur
 Natacha Lefèvre - directrice artistique
 Samuel Lepoil - narrative designer
 Dimitri Roziecki - technical artist 3D
-
-![Heritage_logo](https://github.com/user-attachments/assets/40c137e8-ba44-4c27-b9ba-80f4d42b1dcb)
 
 ## Fonctionnement du jeu
 Heritage est un jeu à identité cachée, et avec un gameplay asymétrique. Chaque joueur incarne un personnage qui doit récupérer l'héritage en éliminant les autres prétendants.
