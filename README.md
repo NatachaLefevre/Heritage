@@ -1,6 +1,8 @@
 # Heritage
 Party game qui mélange jeu de société et jeu vidéo en réalité virtuelle et réalité augmentée, avec le cardboard Google.
 
+Heritage est un jeu à identité cachée, inspiré de jeux comme le Loup-Garou et le Cluedo, et avec un gameplay asymétrique. Chaque joueur incarne un personnage qui doit récupérer l'héritage en éliminant les autres prétendants.
+
 Sur ce jeu, j'ai assuré la direction artistique: UI du jeu en 2D, character design, design des cartes et du cardboard, logo, communication.
 
 J'ai aussi participé au game design et aux tests du jeu avec le public.
@@ -19,8 +21,6 @@ Samuel Lepoil - narrative designer
 Dimitri Roziecki - technical artist 3D
 
 ## Fonctionnement du jeu
-Heritage est un jeu à identité cachée, inspiré de jeux comme le Loup-Garou et le Cluedo, et avec un gameplay asymétrique. Chaque joueur incarne un personnage qui doit récupérer l'héritage en éliminant les autres prétendants.
-
 L'histoire : Tante Léonie était une inventrice aussi brillante que loufoque. Lors de son décès elle lègue en héritage sa plus grande invention : le Vériscope, un appareil qui permet de révéler la vérité quand on le porte. Elle a chargé son robot-majordome Edgar de retrouver ses proches, afin de léguer le Vériscope à son héritier ou héritière légitime. Et on aura besoin de l'utiliser quand de nombreux prétendants à l'héritage de Tante Léonie vont se présenter...
 
 Le Vériscope est incarné par le cardboard de Google. Le jeu est constitué d'une appli mobile que l'on glisse dans le cardboard, et de cartes à jouer que l'on peut scanner grâce à la technique de réalité augmentée.
