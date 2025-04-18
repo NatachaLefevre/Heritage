@@ -26,11 +26,14 @@ Heritage est un jeu à identité cachée, inspiré de jeux comme le Loup-Garou e
 
 Le Vériscope est incarné par le cardboard de Google. Le jeu est constitué d'une appli mobile que l'on glisse dans le cardboard, et de cartes à jouer que l'on peut scanner grâce à la technique de réalité augmentée.
 
-En début de partie, les joueurs choisissent la carte des personnages qu'ils vont incarner, et se voient décerner un rôle : Proche ou Imposteur. À tour de rôle, chaque joueur va regarder dans le cardboard et choisir 2 joueurs qu'il suspecte d'être des imposteurs. Les joueurs ciblés présentent leur carte personnage qui est scannée par l'appli, et qui affiche des informations que seul le joueur qui a le cardboard peut voir. Le joueur partage ensuite ces informaitons, mais... il peut mentir...
+En début de partie, les joueurs choisissent la carte des personnages qu'ils vont incarner, et se voient décerner un rôle : Proche ou Imposteur. À tour de rôle, chaque joueur va regarder dans le cardboard et choisir 2 joueurs qu'il suspecte d'être des imposteurs. Il désigne aussi un assistant qui va montrer une lentille dont le Vériscope a besoin pour fonctionner. Mais l'assistant peut présenter une lentille immaculée ou corrompue, sans que le joueur qui a le cardboard ne le sache. Les joueurs ciblés présentent leur carte personnage qui est scannée par l'appli, et qui affiche des informations que seul le joueur qui a le cardboard peut voir. Le joueur partage ensuite ces informations, mais... il peut mentir...
 
-À la fin de chaque tour, les joueurs ont un temps de discussion pour se convaincre les uns les autres de qui est imposteur et qui est proche. À la fin
+À la fin de chaque tour, les joueurs ont un temps de discussion pour se convaincre les uns les autres de qui est imposteur et qui est proche. À la fin du compte à rebours, les joueurs pointent la personne qu'ils veulent voir hériter. La personne qui a le plus de voix hérite du Vériscope.
 
-Les cartes à jouer représentent les personnages, qui peuvent être scannées
+https://www.youtube.com/watch?v=k_hEsn8fNog
+
+https://www.youtube.com/watch?v=HIbteqx4pVA
 
 
 ## Design du cardboard Google thématisé pour le jeu
+Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé la technologie
