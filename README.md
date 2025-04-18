@@ -1,5 +1,5 @@
 # Heritage
-Party game qui mélange jeu de société et jeu vidéo en réalité virtuelle et réalité augmentée, avec le cardboard Google.
+Party game qui mélange jeu de société et jeu vidéo en réalité virtuelle (VR) et réalité augmentée (AR), avec le cardboard Google.
 
 Sur ce jeu, j'ai assuré la direction artistique: UI du jeu en 2D, character design, design des cartes et du cardboard, logo, communication.
 
@@ -37,5 +37,9 @@ https://www.youtube.com/watch?v=k_hEsn8fNog
 https://www.youtube.com/watch?v=HIbteqx4pVA
 
 
-## Design du cardboard Google thématisé pour le jeu
-Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé la technologie
+## Direction artistique
+
+### Design du carboard
+
+### Cartes à jouer et réalité augmentée (AR)
+Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé VuMark de Vuforia pour la réalité augmentée. Cela nous a permis de pouvoir scanner les illustrations des cartes sans devoir passer par des QR codes. En revanche, il est nécessaire que les illustrations contiennent des formes et des contrastes bien distincts pour que le logiciel les repèreJ'ai adapté la direction artistique du jeu en fonction 
