@@ -50,6 +50,5 @@ Afin de rendre le Vériscope plus réel, nous avons décoré le cardboard Google
 ### Cartes à jouer et réalité augmentée (AR)
 Les cartes à jouer représentent les personnages, qui peuvent être scannées. Nous avons utilisé VuMark de Vuforia pour la réalité augmentée. Cela nous a permis de pouvoir scanner les illustrations des cartes sans devoir passer par des QR codes. En revanche, il est nécessaire que les illustrations contiennent des formes et des contrastes bien distincts pour que le logiciel les repère. J'ai adapté la direction artistique du jeu en fonction de cette contrainte.
 
-![Heritage_Cousin_Philippe](https://github.com/user-attachments/assets/08c86332-a89d-44a4-8a28-3dc3354265e4)
-![Heritage_Cousin_Philippe_dos](https://github.com/user-attachments/assets/cbc62fae-867a-4495-a4d5-fb8a445973ff)
+![Heritage_Cousin_Philippe](https://github.com/user-attachments/assets/08c86332-a89d-44a4-8a28-3dc3354265e4)![Heritage_Cousin_Philippe_dos](https://github.com/user-attachments/assets/cbc62fae-867a-4495-a4d5-fb8a445973ff)
 
