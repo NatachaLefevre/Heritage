@@ -30,12 +30,10 @@ En début de partie, les joueurs choisissent la carte des personnages qu'ils von
 
 À la fin de chaque tour, les joueurs ont un temps de discussion pour se convaincre les uns les autres de qui est imposteur et qui est proche. À la fin du compte à rebours, les joueurs pointent la personne qu'ils veulent voir hériter. La personne qui a le plus de voix hérite du Vériscope.
 
-###Teaser
-
+### Teaser
 https://www.youtube.com/watch?v=k_hEsn8fNog
 
 ### Demo
-
 https://www.youtube.com/watch?v=HIbteqx4pVA
 
 
