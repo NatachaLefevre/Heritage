@@ -7,6 +7,8 @@ J'ai aussi participé au game design et aux tests du jeu avec le public.
 
 ![Heritage_logo](https://github.com/user-attachments/assets/0df84cca-552e-4ba6-82ca-7f818522b663)
 
+![Montage_public](https://github.com/user-attachments/assets/639c161d-bea5-4973-b146-91c50dac9dd9)
+
 ## L'équipe
 Gwennaël Codet-Hache - chef de projet
 
@@ -80,5 +82,3 @@ Mais qui sait si Heritage peut renaître un jour...
 ![Intel_showcase_02](https://github.com/user-attachments/assets/e9bb650c-15e0-487c-8554-0891c1d3aff7)
 
 ![Intel_showcase_01](https://github.com/user-attachments/assets/c17babb4-0828-4de8-923b-2af732d58236)
-
-![Montage_public](https://github.com/user-attachments/assets/639c161d-bea5-4973-b146-91c50dac9dd9)
