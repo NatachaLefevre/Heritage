@@ -5,8 +5,6 @@ Sur ce jeu, j'ai assuré la direction artistique: UI du jeu en 2D, character des
 
 J'ai aussi participé au game design et aux tests du jeu avec le public.
 
-![Heritage_logo](https://github.com/user-attachments/assets/0df84cca-552e-4ba6-82ca-7f818522b663)
-
 ![Montage_public](https://github.com/user-attachments/assets/639c161d-bea5-4973-b146-91c50dac9dd9)
 
 ## L'équipe
