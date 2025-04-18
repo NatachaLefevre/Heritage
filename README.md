@@ -69,9 +69,16 @@ Le jeu montre le bureau du manoir de Tante Léonie, où l'héritage se négocie 
 ## Réception du jeu
 Heritage a reçu le Prix Imaginove au GDMC Games de Lyon en 2017.
 
-Il a aussi été primé au salon Hits Playtime à Paris.
+Il a aussi reçu le Prix Imaginatif au salon Hits Playtime à Paris.
 
-Nous l'avons testé lors de séances de playtests en cadrés, et en contact avec le public dans de nombreux salons de jeux vidéo et de jeux de société comme Paris Est Ludique. Les avis ont été très positifs, et nous avons pu équilibrer le gameplay grâce aux retours du public et des professionnels du jeu qui ont testé le jeu.
+Nous l'avons présenté et testé lors de séances de playtests en cadrés, et en contact avec le public dans de nombreux salons de jeux vidéo et de jeux de société comme Paris Est Ludique ou l'Intel Showcase. Les avis ont été très positifs, et nous avons pu équilibrer le gameplay grâce aux retours du public et des professionnels du jeu qui ont testé le jeu.
 
-Nous avons failli pouvoir le sortir dans le commerce, mais malheureusement le covid est passé par-là. Mais qui sait si Heritage peut renaître un jour...
+Nous avons failli pouvoir le sortir dans le commerce, mais malheureusement le covid est passé par-là. 
 
+Mais qui sait si Heritage peut renaître un jour...
+
+![Intel_showcase_02](https://github.com/user-attachments/assets/e9bb650c-15e0-487c-8554-0891c1d3aff7)
+
+![Intel_showcase_01](https://github.com/user-attachments/assets/c17babb4-0828-4de8-923b-2af732d58236)
+
+![Montage_public](https://github.com/user-attachments/assets/639c161d-bea5-4973-b146-91c50dac9dd9)
