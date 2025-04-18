@@ -19,11 +19,17 @@ Samuel Lepoil - narrative designer
 Dimitri Roziecki - technical artist 3D
 
 ## Fonctionnement du jeu
-Heritage est un jeu à identité cachée, et avec un gameplay asymétrique. Chaque joueur incarne un personnage qui doit récupérer l'héritage en éliminant les autres prétendants.
+Heritage est un jeu à identité cachée, inspiré de jeux comme le Loup-Garou et le Cluedo, et avec un gameplay asymétrique. Chaque joueur incarne un personnage qui doit récupérer l'héritage en éliminant les autres prétendants.
 
-L'histoire : Tante Léonie était une inventrice aussi brillante que loufoque. Lors de son décès elle lègue en héritage sa plus grande invention : le Vériscope, un appareil qui permet de révéler la vérité quand on le porte. Et on aura besoin de l'utiliser quand de nombreux prétendants à l'héritage de Tante Léonie vont se présenter...
+L'histoire : Tante Léonie était une inventrice aussi brillante que loufoque. Lors de son décès elle lègue en héritage sa plus grande invention : le Vériscope, un appareil qui permet de révéler la vérité quand on le porte. Elle a chargé son robot-majordome Edgar de retrouver ses proches, afin de léguer le Vériscope à son héritier ou héritière légitime. Et on aura besoin de l'utiliser quand de nombreux prétendants à l'héritage de Tante Léonie vont se présenter...
 
-Le Vériscope est incarné par le cardboard de Google. Le jeu est constitué d'une appli mobile que l'on glisse dans le cardboard, et de cartes
+Le Vériscope est incarné par le cardboard de Google. Le jeu est constitué d'une appli mobile que l'on glisse dans le cardboard, et de cartes à jouer que l'on peut scanner grâce à la technique de réalité augmentée.
+
+En début de partie, les joueurs choisissent la carte des personnages qu'ils vont incarner, et se voient décerner un rôle : Proche ou Imposteur. À tour de rôle, chaque joueur va regarder dans le cardboard et choisir 2 joueurs qu'il suspecte d'être des imposteurs. Les joueurs ciblés présentent leur carte personnage qui est scannée par l'appli, et qui affiche des informations que seul le joueur qui a le cardboard peut voir. Le joueur partage ensuite ces informaitons, mais... il peut mentir...
+
+À la fin de chaque tour, les joueurs ont un temps de discussion pour se convaincre les uns les autres de qui est imposteur et qui est proche. À la fin
+
+Les cartes à jouer représentent les personnages, qui peuvent être scannées
 
 
 ## Design du cardboard Google thématisé pour le jeu
