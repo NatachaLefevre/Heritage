@@ -69,7 +69,7 @@ Nous avons fait le choix d'un mélange d'assets 3D et 2D, qui se marient bien po
 ![Capture01](https://github.com/user-attachments/assets/8b47d6c5-3f64-41db-aa9a-801f9acd349f)
 
 ## Réception du jeu
-Heritage a reçu le Prix Imaginove au GDMC Games de Lyon en 2017.
+Heritage a reçu le Prix Imaginove au GMC Games de Lyon en 2017.
 
 Il a aussi reçu le Prix Imaginatif au salon Hits Playtime à Paris.
 
