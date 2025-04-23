@@ -73,7 +73,7 @@ Heritage a reçu le Prix Imaginove au GMC Games de Lyon en 2017.
 
 Il a aussi reçu le Prix Imaginatif au salon Hits Playtime à Paris.
 
-Nous l'avons présenté et testé lors de séances de playtests en cadrés, et en contact avec le public dans de nombreux salons de jeux vidéo et de jeux de société comme Paris Est Ludique ou l'Intel Showcase. Les avis ont été très positifs, et nous avons pu équilibrer le gameplay grâce aux retours du public et des professionnels du jeu qui ont testé le jeu.
+Nous l'avons présenté et testé lors de séances de playtests encadrés, et en contact avec le public dans de nombreux salons de jeux vidéo et de jeux de société comme Paris Est Ludique ou l'Intel Showcase. Les avis ont été très positifs, et nous avons pu équilibrer le gameplay grâce aux retours du public et des professionnels du jeu qui ont testé le jeu.
 
 Nous avons failli pouvoir le sortir dans le commerce, mais malheureusement le covid est passé par-là et a déjoué nos plans. 
 
