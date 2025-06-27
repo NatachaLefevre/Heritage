@@ -5,10 +5,9 @@ Sur ce jeu, j'ai assuré la direction artistique: UI du jeu en 2D, character des
 
 J'ai aussi participé au game design et aux tests du jeu avec le public.
 
+![Hits Playtime 02](https://github.com/user-attachments/assets/be0517bd-8f2b-4f35-9781-6a3c535da3c8)
+
 ![Montage_public](https://github.com/user-attachments/assets/639c161d-bea5-4973-b146-91c50dac9dd9)
-
-![imaginove](https://github.com/user-attachments/assets/48aabab9-8508-4398-ab06-33291399217f)
-
 
 ## L'équipe
 Gwennaël Codet-Hache - chef de projet
