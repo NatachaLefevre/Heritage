@@ -7,6 +7,9 @@ J'ai aussi participé au game design et aux tests du jeu avec le public.
 
 ![Montage_public](https://github.com/user-attachments/assets/639c161d-bea5-4973-b146-91c50dac9dd9)
 
+![imaginove](https://github.com/user-attachments/assets/48aabab9-8508-4398-ab06-33291399217f)
+
+
 ## L'équipe
 Gwennaël Codet-Hache - chef de projet
 
@@ -17,6 +20,8 @@ Natacha Lefèvre - directrice artistique
 Samuel Lepoil - narrative designer
 
 Dimitri Roziecki - technical artist 3D
+
+![photo jury](https://github.com/user-attachments/assets/450ca105-6ec3-471e-8a0c-d28138feca52)
 
 ## L'histoire
 Tante Léonie était une inventrice aussi brillante que loufoque. Lors de son décès elle lègue en héritage sa plus grande invention : le Vériscope, un appareil qui permet de révéler la vérité quand on le porte. Elle a chargé son robot-majordome Edgar de retrouver ses proches, afin de léguer le Vériscope à son héritier ou héritière légitime. Et on aura besoin de l'utiliser quand de nombreux prétendants à l'héritage de Tante Léonie vont se présenter...
